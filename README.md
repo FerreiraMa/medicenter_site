@@ -1,4 +1,4 @@
-# Site desenvolvido 'cópia' para fins didáticos 
+# Site desenvolvido 'clone' para fins didáticos 
 
 01) Flexbox;
 02) HTML5;
